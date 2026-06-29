@@ -1,14 +1,18 @@
-# holylab.local — Home Lab Runbook
+# holylab.local — Enterprise Home Lab
 
-A documented enterprise-style home lab built on a Dell OptiPlex 3040 running Proxmox VE.
-This project covers core IT infrastructure, help desk services, Active Directory administration,
-and a segmented security lab — built to demonstrate skills relevant to IT support and cybersecurity roles.
+A documented enterprise-style home lab built on a Dell OptiPlex 3040 running Proxmox VE. This project covers core IT infrastructure, help desk services, Active Directory administration, and a segmented security lab — built as a portfolio project targeting IT support and cybersecurity analyst roles.
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server_2025-0078D6?style=flat&logo=windows&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux_9.8-10B981?style=flat&logo=rockylinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D6?style=flat&logo=microsoft&logoColor=white)
 
 > ⚠️ **Lab Environment Only**
 > All systems in this lab are self-owned and self-managed.
 > The security lab subnet is air-gapped with no physical NIC uplink.
-> Do not replicate offensive techniques against systems you do not own
-> or have explicit permission to test.
+> Do not replicate offensive techniques against systems you do not own or have explicit permission to test.
 
 ---
 
@@ -116,5 +120,7 @@ and a segmented security lab — built to demonstrate skills relevant to IT supp
 - Help desk platform administration (osTicket, ticket lifecycle management)
 - Linux server administration (Rocky Linux, firewalld, systemd, MariaDB)
 - Security lab design and network isolation
-- Penetration testing environment setup (Kali Linux, Metasploitable 2) 
+- Penetration testing environment setup (Kali Linux, Metasploitable 2)
+- IT documentation and runbook writing (Markdown, Git)
+- Ticketing system administration and workflow management (osTicket)
 
