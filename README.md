@@ -117,3 +117,4 @@ and a segmented security lab — built to demonstrate skills relevant to IT supp
 - Linux server administration (Rocky Linux, firewalld, systemd, MariaDB)
 - Security lab design and network isolation
 - Penetration testing environment setup (Kali Linux, Metasploitable 2) 
+
