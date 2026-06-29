@@ -64,6 +64,10 @@ and a segmented security lab — built to demonstrate skills relevant to IT supp
 
 ![osTicket live on IIS](screenshots/osticket-live.png)
 
+**Screenshot — MariaDB running on Rocky Linux (DB tier):**
+
+![MariaDB active and firewall port 3306 open](screenshots/rocky-mariadb.png)
+
 ---
 
 ## Active Directory Build-Out
